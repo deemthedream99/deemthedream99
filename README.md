@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating My First Resource](https://github.com/joshmadakorcc/configure-ad)
+  - [Storage Account Setup](https://github.com/deemthedream99/Storage-Account-Setup)
 
 - <b>Active Directory</b>
   - [Domain Setup](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab)
