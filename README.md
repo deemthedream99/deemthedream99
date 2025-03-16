@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Storage Account Setup](https://github.com/deemthedream99/Storage-Account-Setup)
+  - https://github.com/deemthedream99/Azure-VM-Network-Security-Lab/tree/main
 
 - <b>Active Directory</b>
   - [Domain Setup](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab)
