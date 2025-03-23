@@ -10,7 +10,8 @@
   - [Virtual Machine Network Security](https://github.com/deemthedream99/Azure-VM-Network-Security-Lab/tree/main)
  
 - <b>osTicket</b>
-  - [Windows 10 Installation](https://github.com/deemthedream99/osTicket-Windows-10-Installation-Guide-Azure-VM-)
+  - [Installation (Windows 10)](https://github.com/deemthedream99/osTicket-Windows-10-Installation-Guide-Azure-VM-)
+  - [Post-Installation Setup](https://github.com/deemthedream99/osTicket-Post-Installation-Setup)
 
 <h2>Connect with me:</h2>
   
