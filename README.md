@@ -2,12 +2,15 @@
 
 <h2>Information Technology Projects:</h2>
 
+- <b>Active Directory</b>
+  - [Domain Setup](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab)
+ 
 - <b>Microsoft Azure</b>
   - [Storage Account Setup](https://github.com/deemthedream99/Storage-Account-Setup)
   - [Virtual Machine Network Security](https://github.com/deemthedream99/Azure-VM-Network-Security-Lab/tree/main)
-
-- <b>Active Directory</b>
-  - [Domain Setup](https://github.com/deemthedream99/Active-Directory-VirtualBox-Lab)
+ 
+- <b>osTicket</b>
+  - [Windows 10 Installation](https://github.com/deemthedream99/osTicket-Windows-10-Installation-Guide-Azure-VM-)
 
 <h2>Connect with me:</h2>
   
