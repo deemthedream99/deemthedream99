@@ -8,6 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Storage Account Setup](https://github.com/deemthedream99/Storage-Account-Setup)
   - [Virtual Machine Network Security](https://github.com/deemthedream99/Azure-VM-Network-Security-Lab/tree/main)
+  - [VPN Location Testing](https://github.com/deemthedream99/Azure-VM-VPN-Location-Testing/blob/main/README.md)
  
 - <b>osTicket</b>
   - [Installation (Windows 10)](https://github.com/deemthedream99/osTicket-Windows-10-Installation-Guide-Azure-VM-)
