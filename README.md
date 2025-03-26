@@ -12,6 +12,7 @@
 - <b>osTicket</b>
   - [Installation (Windows 10)](https://github.com/deemthedream99/osTicket-Windows-10-Installation-Guide-Azure-VM-)
   - [Post-Installation Setup](https://github.com/deemthedream99/osTicket-Post-Installation-Setup)
+  - [Ticket Management](https://github.com/deemthedream99/osTicket-Ticket-Management-Lab)
 
 <h2>Connect with me:</h2>
   
